@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Peculiarjoseph
+- 👋 Hi, I’m @PAdeolupeculiarjoseph
 - 👀 I’m interested in solving social, business, and organizational problems with the use of existing data.
 - 🌱 I’m currently learning how to apply the technical and non-technical skills needed in the analysis of data. 
 - 💞️ I’m looking to collaborate on projects relating to data cleaning, transformation, preparation, and visualization.
-- 📫 How to reach me ...peculiarjoseph58@gmail.com
+- 📫 How to reach me ...sendpeculiaranemail@gmail.com
 - 😄 Pronouns: Him/He
   
 
